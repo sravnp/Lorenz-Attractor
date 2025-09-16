@@ -8,8 +8,8 @@ The Lorenz system is a system of ordinary differential equations first studied b
 ---
 
 The Lorenz attractor system is most commonly expressed as 3 coupled non-linear differential equations-
-dx/dt=a(y−x)
-dy/dt=x(b−z)−y
+dx/dt=a(y−x),
+dy/dt=x(b−z)−y,
 dz/dt=xy−cz
 In the above set of equations, 'a' is sometimes known as the Prandtl number and 'b' the Rayleigh number. One commonly used set of constants is a = 10, b = 28, c = 8 / 3. Another is a = 28, b = 46.92, c = 4.
 
